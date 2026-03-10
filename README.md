@@ -1,4 +1,4 @@
-# Hi, I'm Luke 👋
+# Hi, I'm Luke 🤗
 
 Computer Programming student at Red Deer Polytechnic interested in full stack development and data driven applications.
 
