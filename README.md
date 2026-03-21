@@ -12,7 +12,7 @@ Recently I’ve been focusing on improving my development workflow, becoming a b
 <img src="https://github.com/user-attachments/assets/a1ddb243-d4e6-4ff8-a023-386355636f50" width="18"> **[FnF Seasoning](https://fnfseasonings.ca/)** — E-commerce website built for a small business product launch  
 Next.js | TypeScript | Sanity CMS
 
-<img src="https://github.com/user-attachments/assets/d2d99e38-998c-42e9-bbb2-8ea95ee3736d" width="18"> **PlinkoInk** — Plinko game that uses pigs instead of balls  
+<img src="https://github.com/user-attachments/assets/d2d99e38-998c-42e9-bbb2-8ea95ee3736d" width="18"> **[PlinkoInk](https://github.com/Luke8877/plinko-project)** — Plinko game that uses pigs instead of balls  
 MongoDB | Express | React | Node | Vite
 
 <img src="https://github.com/user-attachments/assets/0bd12571-0daf-43dc-9442-49eeea842f4c" width="18"> **Sprout** — Full stack productivity and lifestyle tracking application  
