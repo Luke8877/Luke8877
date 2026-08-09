@@ -1,9 +1,8 @@
 # Hi, I'm Luke 👋
 
-Computer Programming student at Red Deer Polytechnic interested in full stack development and data driven applications.
+Applied Research Technician II with a background in software development, embedded systems, and hardware/software integration.
 
-I enjoy building practical software that solves real problems and understanding the fundamentals behind the systems I build, from data flow and architecture to the logic that drives them.
-Recently I’ve been focusing on improving my development workflow, becoming a better Git/GitHub user, and building full stack applications with React.
+I enjoy building practical systems, solving technical problems, and learning how software interacts with the systems around it. My experience ranges from full-stack applications to embedded firmware and interactive hardware projects.
 
 ---
 
@@ -22,7 +21,7 @@ React | Node.js | Prisma | PostgreSQL
 
 ## Currently Working On
 
-- Improving full stack architecture and backend design
-- Expanding portfolio projects
-- Preparing for a career in software development
-- Finishing my capstone project (Sprout)
+- Developing my software and embedded systems skills
+- Building and improving portfolio projects
+- Strengthening my programming fundamentals
+- Exploring opportunities in software development
